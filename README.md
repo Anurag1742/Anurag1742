@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **https://anuragranjan.netlify.app/**
 
-- 📄 Know about my experiences [https://github.com/Anurag1742](https://github.com/Anurag1742)
+- 📄 Know about my experiences [https://www.linkedin.com/in/anurag-ranjan-68034b330/](https://www.linkedin.com/in/anurag-ranjan-68034b330/)
 
 <h3 align="left">Connect with me:</h3>
 

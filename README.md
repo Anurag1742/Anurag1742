@@ -1,4 +1,4 @@
-![logo](https://github.com/ShubhamKumarRaman/ShubhamKumarRaman/blob/main/Banner%202.png)
+<!-- ![logo](https://github.com/ShubhamKumarRaman/ShubhamKumarRaman/blob/main/Banner%202.png) -->
 <h1 align="center">Hi 👋, I'm Anurag Ranjan</h1>
 <h3 align="center">**🚀 Passionate Developer | Java & Android Enthusiast | Web & Data Science Explorer**</h3>
 <img align="right" alt="coding" width="400" src = "https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">

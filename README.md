@@ -1,8 +1,38 @@
-# Hii 💫 I'm Anurag Ranjan:
-🔭 I'm currently working on Web Development<br>📖 I'm currently learning JAVA and JAVA Script
+![logo](https://github.com/ShubhamKumarRaman/ShubhamKumarRaman/blob/main/Banner%202.png)
+<h1 align="center">Hi 👋, I'm Anurag Ranjan</h1>
+<h3 align="center">**🚀 Passionate Developer | Java & Android Enthusiast | Web & Data Science Explorer**</h3>
+<img align="right" alt="coding" width="400" src = "https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumarraman&label=Profile%20views&color=0e75b6&style=flat" alt="Ab=Anurag1742" /> </p>
+
+- 🌱 I’m currently pursuing **MCA Degree**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Anurag1742](https://github.com/Anurag1742)
+
+- 💬 Ask me about **video editing Development, Web Development**
+
+- 📫 How to reach me **https://anuragranjan.netlify.app/**
+
+- 📄 Know about my experiences [https://github.com/Anurag1742](https://github.com/Anurag1742)
+
+<h3 align="left">Connect with me:</h3>
 
 
-## 🌐 Socials:
+
+<!--
+**ShubhamKumarRaman/ShubhamKumarRaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag_rishav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anurag Ranjan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragranjan373@gamil.com) 
 
 # 💻 Tech Stack:
